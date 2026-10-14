@@ -1,0 +1,278 @@
+{
+ "made": "2026-10-13",
+ "default_season": 2026,
+ "seasons": [
+  2025,
+  2026
+ ],
+ "pitchers": [
+  {
+   "pitcher_id": 518876,
+   "season": 2026
+  },
+  {
+   "pitcher_id": 543243,
+   "season": 2026
+  },
+  {
+   "pitcher_id": 554430,
+   "season": 2026
+  },
+  {
+   "pitcher_id": 592332,
+   "season": 2026
+  },
+  {
+   "pitcher_id": 592662,
+   "season": 2025
+  },
+  {
+   "pitcher_id": 592662,
+   "season": 2026
+  },
+  {
+   "pitcher_id": 593958,
+   "season": 2026
+  },
+  {
+   "pitcher_id": 605400,
+   "season": 2026
+  },
+  {
+   "pitcher_id": 607625,
+   "season": 2026
+  },
+  {
+   "pitcher_id": 608379,
+   "season": 2026
+  },
+  {
+   "pitcher_id": 621111,
+   "season": 2026
+  },
+  {
+   "pitcher_id": 641743,
+   "season": 2026
+  },
+  {
+   "pitcher_id": 642547,
+   "season": 2026
+  },
+  {
+   "pitcher_id": 645261,
+   "season": 2026
+  },
+  {
+   "pitcher_id": 650633,
+   "season": 2026
+  },
+  {
+   "pitcher_id": 650911,
+   "season": 2026
+  },
+  {
+   "pitcher_id": 656302,
+   "season": 2026
+  },
+  {
+   "pitcher_id": 656492,
+   "season": 2026
+  },
+  {
+   "pitcher_id": 657746,
+   "season": 2025
+  },
+  {
+   "pitcher_id": 657746,
+   "season": 2026
+  },
+  {
+   "pitcher_id": 660271,
+   "season": 2026
+  },
+  {
+   "pitcher_id": 660761,
+   "season": 2025
+  },
+  {
+   "pitcher_id": 660761,
+   "season": 2026
+  },
+  {
+   "pitcher_id": 660853,
+   "season": 2025
+  },
+  {
+   "pitcher_id": 660853,
+   "season": 2026
+  },
+  {
+   "pitcher_id": 663567,
+   "season": 2026
+  },
+  {
+   "pitcher_id": 663903,
+   "season": 2026
+  },
+  {
+   "pitcher_id": 664285,
+   "season": 2026
+  },
+  {
+   "pitcher_id": 668909,
+   "season": 2026
+  },
+  {
+   "pitcher_id": 669022,
+   "season": 2026
+  },
+  {
+   "pitcher_id": 669302,
+   "season": 2026
+  },
+  {
+   "pitcher_id": 669358,
+   "season": 2026
+  },
+  {
+   "pitcher_id": 669432,
+   "season": 2026
+  },
+  {
+   "pitcher_id": 669467,
+   "season": 2026
+  },
+  {
+   "pitcher_id": 671096,
+   "season": 2026
+  },
+  {
+   "pitcher_id": 671737,
+   "season": 2026
+  },
+  {
+   "pitcher_id": 672282,
+   "season": 2026
+  },
+  {
+   "pitcher_id": 676440,
+   "season": 2026
+  },
+  {
+   "pitcher_id": 682120,
+   "season": 2025
+  },
+  {
+   "pitcher_id": 682120,
+   "season": 2026
+  },
+  {
+   "pitcher_id": 683627,
+   "season": 2025
+  },
+  {
+   "pitcher_id": 683627,
+   "season": 2026
+  },
+  {
+   "pitcher_id": 686218,
+   "season": 2026
+  },
+  {
+   "pitcher_id": 687473,
+   "season": 2025
+  },
+  {
+   "pitcher_id": 687473,
+   "season": 2026
+  },
+  {
+   "pitcher_id": 693433,
+   "season": 2026
+  },
+  {
+   "pitcher_id": 693645,
+   "season": 2026
+  },
+  {
+   "pitcher_id": 694738,
+   "season": 2026
+  },
+  {
+   "pitcher_id": 694973,
+   "season": 2026
+  },
+  {
+   "pitcher_id": 696149,
+   "season": 2026
+  },
+  {
+   "pitcher_id": 700712,
+   "season": 2026
+  },
+  {
+   "pitcher_id": 702070,
+   "season": 2026
+  },
+  {
+   "pitcher_id": 800048,
+   "season": 2026
+  },
+  {
+   "pitcher_id": 806960,
+   "season": 2025
+  },
+  {
+   "pitcher_id": 806960,
+   "season": 2026
+  }
+ ],
+ "files": 5817,
+ "bytes": 97279165,
+ "what_if_grid": {
+  "slot_change": [
+   -15,
+   -10,
+   -5,
+   0,
+   5,
+   10,
+   15
+  ],
+  "efficiency_change": [
+   -10,
+   -5,
+   0,
+   5,
+   10
+  ],
+  "modes": [
+   "physics",
+   "data"
+  ]
+ },
+ "missing": [
+  "/api/v1/pitchers/543243/twins {'season': 2026, 'pitch_type': 'CS'}: 404 (kept)",
+  "/api/v1/pitchers/592332/twins {'season': 2026, 'pitch_type': 'ST'}: 404 (kept)",
+  "/api/v1/pitchers/592662/twins {'season': 2025, 'pitch_type': 'ST'}: 404 (kept)",
+  "/api/v1/pitchers/605400/twins {'season': 2026, 'pitch_type': 'SL'}: 404 (kept)",
+  "/api/v1/pitchers/650911/slot {'season': 2026, 'pitch_type': None}: 404 (kept)",
+  "/api/v1/pitchers/660761/twins {'season': 2026, 'pitch_type': 'FC'}: 404 (kept)",
+  "/api/v1/pitchers/660761/slot {'season': 2026, 'pitch_type': 'FC'}: 404 (kept)",
+  "/api/v1/pitchers/663567/twins {'season': 2026, 'pitch_type': 'CU'}: 404 (kept)",
+  "/api/v1/pitchers/669302/twins {'season': 2026, 'pitch_type': 'CU'}: 404 (kept)",
+  "/api/v1/pitchers/682120/twins {'season': 2026, 'pitch_type': 'CH'}: 404 (kept)",
+  "/api/v1/pitchers/683627/twins {'season': 2025, 'pitch_type': 'SI'}: 404 (kept)",
+  "/api/v1/pitchers/683627/twins {'season': 2025, 'pitch_type': 'FC'}: 404 (kept)",
+  "/api/v1/pitchers/683627/slot {'season': 2025, 'pitch_type': 'SI'}: 404 (kept)",
+  "/api/v1/pitchers/683627/slot {'season': 2025, 'pitch_type': 'FC'}: 404 (kept)",
+  "/api/v1/pitchers/683627/twins {'season': 2026, 'pitch_type': 'SV'}: 404 (kept)",
+  "/api/v1/pitchers/683627/twins {'season': 2026, 'pitch_type': 'SI'}: 404 (kept)",
+  "/api/v1/pitchers/683627/slot {'season': 2026, 'pitch_type': 'SI'}: 404 (kept)",
+  "/api/v1/pitchers/693645/twins {'season': 2026, 'pitch_type': 'SL'}: 404 (kept)",
+  "/api/v1/pitchers/806960/twins {'season': 2025, 'pitch_type': 'SI'}: 404 (kept)",
+  "/api/v1/pitchers/806960/slot {'season': 2025, 'pitch_type': 'SI'}: 404 (kept)",
+  "/api/v1/pitchers/806960/twins {'season': 2026, 'pitch_type': 'SI'}: 404 (kept)",
+  "/api/v1/pitchers/806960/slot {'season': 2026, 'pitch_type': 'SI'}: 404 (kept)"
+ ]
+}
