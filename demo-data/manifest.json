@@ -1,5 +1,5 @@
 {
- "made": "2026-10-13",
+ "made": "2026-10-15",
  "default_season": 2026,
  "seasons": [
   2025,
@@ -227,8 +227,8 @@
    "season": 2026
   }
  ],
- "files": 5817,
- "bytes": 97279165,
+ "files": 6353,
+ "bytes": 104167796,
  "what_if_grid": {
   "slot_change": [
    -15,
@@ -261,6 +261,7 @@
   "/api/v1/pitchers/660761/slot {'season': 2026, 'pitch_type': 'FC'}: 404 (kept)",
   "/api/v1/pitchers/663567/twins {'season': 2026, 'pitch_type': 'CU'}: 404 (kept)",
   "/api/v1/pitchers/669302/twins {'season': 2026, 'pitch_type': 'CU'}: 404 (kept)",
+  "/api/v1/pitchers/669358/twins {'season': 2026, 'pitch_type': 'FA'}: 404 (kept)",
   "/api/v1/pitchers/682120/twins {'season': 2026, 'pitch_type': 'CH'}: 404 (kept)",
   "/api/v1/pitchers/683627/twins {'season': 2025, 'pitch_type': 'SI'}: 404 (kept)",
   "/api/v1/pitchers/683627/twins {'season': 2025, 'pitch_type': 'FC'}: 404 (kept)",
@@ -270,6 +271,7 @@
   "/api/v1/pitchers/683627/twins {'season': 2026, 'pitch_type': 'SI'}: 404 (kept)",
   "/api/v1/pitchers/683627/slot {'season': 2026, 'pitch_type': 'SI'}: 404 (kept)",
   "/api/v1/pitchers/693645/twins {'season': 2026, 'pitch_type': 'SL'}: 404 (kept)",
+  "/api/v1/pitchers/702070/twins {'season': 2026, 'pitch_type': 'EP'}: 404 (kept)",
   "/api/v1/pitchers/806960/twins {'season': 2025, 'pitch_type': 'SI'}: 404 (kept)",
   "/api/v1/pitchers/806960/slot {'season': 2025, 'pitch_type': 'SI'}: 404 (kept)",
   "/api/v1/pitchers/806960/twins {'season': 2026, 'pitch_type': 'SI'}: 404 (kept)",
